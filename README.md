@@ -1,6 +1,6 @@
 # metaprompter
 
-This is just an example. You'll need to put in your openai api key or update the script to read from your env vars. More than likely most people will just integrate this into their own code base.
+This script is mostly an example for people to reference (but I do use it!). You'll need to put in your openai api key or update the script to read from your env vars. More than likely most people will just integrate this into their own code base.
 
 Usage: 
 
